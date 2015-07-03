@@ -1,2 +1,2 @@
 # ZooKeeperAndroid
-ZooKeeper for Android
+ZooKeeperAndroid is a full android port of ZooKeeper 3.4.6. All source codes of ZooKeeper are retained except for some MBean(s) and  security function not available in Android environment.

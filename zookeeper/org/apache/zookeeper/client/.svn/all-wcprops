@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/client
+END
+StaticHostProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/client/StaticHostProvider.java
+END
+HostProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/client/HostProvider.java
+END
+FourLetterWordMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/client/FourLetterWordMain.java
+END
+ConnectStringParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/client/ConnectStringParser.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/auth
+END
+IPAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/auth/IPAuthenticationProvider.java
+END
+ProviderRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/auth/ProviderRegistry.java
+END
+AuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/auth/AuthenticationProvider.java
+END
+DigestAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/auth/DigestAuthenticationProvider.java
+END
+KerberosName.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/auth/KerberosName.java
+END
+SASLAuthenticationProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/auth/SASLAuthenticationProvider.java
+END

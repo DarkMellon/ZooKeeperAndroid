@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/quorum/flexible
+END
+QuorumMaj.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/quorum/flexible/QuorumMaj.java
+END
+QuorumVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/quorum/flexible/QuorumVerifier.java
+END
+QuorumHierarchical.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/quorum/flexible/QuorumHierarchical.java
+END

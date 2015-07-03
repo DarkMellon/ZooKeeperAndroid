@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/data
+END
+ACL.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/data/ACL.java
+END
+StatPersistedV1.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/data/StatPersistedV1.java
+END
+Stat.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/data/Stat.java
+END
+Id.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/data/Id.java
+END
+StatPersisted.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/data/StatPersisted.java
+END

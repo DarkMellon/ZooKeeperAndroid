@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/persistence
+END
+SnapShot.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/persistence/SnapShot.java
+END
+FileSnap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/persistence/FileSnap.java
+END
+FileHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/persistence/FileHeader.java
+END
+FileTxnLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/persistence/FileTxnLog.java
+END
+TxnLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/persistence/TxnLog.java
+END
+FileTxnSnapLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/persistence/FileTxnSnapLog.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/server/persistence/Util.java
+END

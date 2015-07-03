@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper
+END
+MultiTransactionRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/MultiTransactionRecord.java
+END
+ClientWatchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ClientWatchManager.java
+END
+ZooKeeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ZooKeeper.java
+END
+Environment.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/Environment.java
+END
+ClientCnxn.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ClientCnxn.java
+END
+Shell.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/Shell.java
+END
+CreateMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/CreateMode.java
+END
+ZooKeeperMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ZooKeeperMain.java
+END
+MultiResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/MultiResponse.java
+END
+ZooDefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ZooDefs.java
+END
+Quotas.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/Quotas.java
+END
+OpResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/OpResult.java
+END
+ServerAdminClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ServerAdminClient.java
+END
+Op.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/Op.java
+END
+ClientCnxnSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ClientCnxnSocket.java
+END
+WatchedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/WatchedEvent.java
+END
+ZKUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ZKUtil.java
+END
+StatsTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/StatsTrack.java
+END
+ClientCnxnSocketNIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/ClientCnxnSocketNIO.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/Transaction.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/Version.java
+END
+JLineZNodeCompletor.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/JLineZNodeCompletor.java
+END
+KeeperException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/KeeperException.java
+END
+AsyncCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/AsyncCallback.java
+END
+Watcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/101/!svn/ver/152/MinaTma/zookeeper/org/apache/zookeeper/Watcher.java
+END
